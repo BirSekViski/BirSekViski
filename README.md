@@ -4,13 +4,11 @@ Welcome to my GitHub profile! I'm thrilled to have you here. Here's a bit about 
 
 # About Me
 
-🎓 Soon-to-be Computer Engineering graduate with a strong focus on game development and software engineering.
-💼 Experienced freelancer, having developed multiple 2D and 3D games for mobile and PC platforms over the past 1.5-2 years.
-🎮 Passionate about creating immersive gaming experiences, specializing in Unity and C#.
-🌱 Lifelong learner, always eager to explore new technologies and expand my skill set.
-🧑‍🏫 Delivered a 1-month Unity-based coding course for 6th-grade students, teaching basic programming concepts through game development.
-💻 Completed a 1-month internship in C# software development, gaining valuable industry experience.
-📩 Feel free to reach out to me via the links below for collaboration, questions, or just to say hi!
+- 🎓 Soon-to-be Computer Engineering graduate with a strong focus on game development and software engineering.
+- 💼 Experienced freelancer, having developed multiple 2D and 3D games for mobile and PC platforms over the past 2 years.
+- 🎮 Passionate about creating immersive gaming experiences, specializing in Unity and C#.
+- 🌱 Lifelong learner, always eager to explore new technologies and expand my skill set.
+- 📩 Feel free to reach out to me via the links below for collaboration, questions, or just to say hi!
 
 ## Technologies and Tools
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
@@ -36,25 +34,14 @@ Here are some brief of the key projects I've worked on during my studies and fre
 
 As a freelancer, I have developed numerous 2D and 3D games for both mobile and PC platforms. These projects focus on engaging gameplay, robust mechanics, and seamless user experiences. Highlights include:
 
-- Mobile Games: Casual and puzzle games optimized for various devices.
-- PC Games: Immersive 3D experiences with multiplayer features.
-- Unity Teaching: Led a 1-month coding course using Unity for young learners, focusing on basic coding through game development.
+- **Mobile Games:** Casual and puzzle games, optimized for mobile devices.
+- **PC Games:** Immersive 3D games with multiplayer elements.
+- **Unity Teaching:** Led a 1-month Unity coding course for 6th-grade students, teaching basic programming concepts through game creation.
 
-### Other Academic Projects
-
-While my main focus is on game development, I have also worked on several academic projects to enhance my understanding of different fields:
-
-#### Digital Image Processing Projects
-A collection of projects focusing on various digital image processing techniques, such as image filtering, edge detection, and color transformations. These projects were developed as part of my coursework to deepen my understanding of image processing concepts.
-
-#### Data Visualization Project
-Brief description: Analyzing various datasets using data visualization methods.I did these projects to improve myself and learn more about datasets and visualize them in the data visualisation course at university.
-
-#### Basic NLP Project
-Brief description: Text analysis using natural language processing techniques.I did these projects to improve myself with my insturactor in the Natural Language Processing course at university.
-
-#### Computer Graphics Project
-Brief description: Projects developed in the computer graphics course.I did these projects for assingments in the computer graphics course at university.
-
-#### Statistics Project
-Brief description: Statistical analysis with different datasets.I did these projects to improve myself and learn more about statistic and data process in the statistic course at university.
+### Additional Projects and Concepts Learned During My Studies
+While my main focus is game development, I have also explored and worked on several other concepts during my education:
+- **Digital Image Processing:** Implemented techniques such as image filtering, edge detection, and color transformations.
+- **Data Visualization:** Analyzed datasets using various visualization techniques to extract meaningful insights.
+- **Natural Language Processing (NLP):** Worked on text analysis projects using NLP methods to explore and process natural language data.
+- **Computer Graphics:** Developed projects related to rendering, shading, and 3D modeling, learning essential concepts in computer graphics.
+- **Statistics and Data Analysis:** Applied statistical methods to analyze and interpret various datasets, deepening my understanding of data processing and statistical analysis.
