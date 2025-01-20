@@ -1,11 +1,12 @@
 
-# Hello, I'm [Yiğit Şahin]! 👋
+# Hello, I'm Yiğit Şahin! Glad to see you here 👋
 
 ## About Me
 - 🎓 I'm a Computer Engineering graduate, about to graduate.
 - 💼 Currently looking for a job.
-- 🌱 Currently learning: Unity, Python, C#, Java, HTML, CSS, JavaScript, MATLAB.
+- 🌱 Always try to learn new things.
 - 🎮 Focused on game development and multiplayer systems.
+- 📩 You can always contact me via links below.
 
 ## Technologies and Tools
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
@@ -20,6 +21,7 @@
 ## Contact
 - [LinkedIn Profile](https://www.linkedin.com/in/yiğit-şahin-6025b9200/)
 - [Email](ayigits@gmail.com)
+- [Instagram] (https://www.instagram.com/yigit._.sahin/)
 
 ## My Projects
 ### [Digital Image Processing Projects](currently not have link)
