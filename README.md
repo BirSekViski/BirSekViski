@@ -20,8 +20,9 @@
 
 ## Contact
 - [LinkedIn Profile](https://www.linkedin.com/in/yiğit-şahin-6025b9200/)
-- [Email](ayigits@gmail.com)
-- [Instagram] (https://www.instagram.com/yigit._.sahin/)
+- [Instagram](https://www.instagram.com/yigit._.sahin/)
+- ayigits@gmail.com
+
 
 ## My Projects
 ### [Digital Image Processing Projects](currently not have link)
