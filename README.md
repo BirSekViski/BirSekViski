@@ -1,6 +1,6 @@
 # Hello, I'm Yiğit Şahin! 👋
 
-Welcome to my GitHub profile! I'm thrilled to have you here. Here's a bit about me and the projects I've worked on.
+Welcome to my GitHub profile! I'm thrilled to have you here. Here's a bit about me and the projects I've worked on. [But first check out the game I made on this steam page](https://store.steampowered.com/app/2665380/Camping_Vlog_Simulator_2024/)
 
 # About Me
 
